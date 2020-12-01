@@ -1,4 +1,4 @@
-# Ripple Charts
+# Divvy Charts
 
 A charts and stats browser for Ripple.
 
